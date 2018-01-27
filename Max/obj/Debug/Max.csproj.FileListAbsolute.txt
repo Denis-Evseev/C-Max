@@ -1,0 +1,12 @@
+C:\Users\Denis-Evseev\documents\visual studio 2013\Projects\Max\Max\bin\Debug\Max.exe.config
+C:\Users\Denis-Evseev\documents\visual studio 2013\Projects\Max\Max\obj\Debug\Max.exe
+C:\Users\Denis-Evseev\documents\visual studio 2013\Projects\Max\Max\obj\Debug\Max.pdb
+C:\Users\Denis-Evseev\documents\visual studio 2013\Projects\Max\Max\bin\Debug\Max.exe
+C:\Users\Denis-Evseev\documents\visual studio 2013\Projects\Max\Max\bin\Debug\Max.pdb
+C:\Users\Denis-Evseev\documents\visual studio 2013\Projects\Max\Max\obj\Debug\Max.csprojResolveAssemblyReference.cache
+D:\My program\C#\new\Max\Max\bin\Debug\Max.exe.config
+D:\My program\C#\new\Max\Max\bin\Debug\Max.exe
+D:\My program\C#\new\Max\Max\bin\Debug\Max.pdb
+D:\My program\C#\new\Max\Max\obj\Debug\Max.csprojResolveAssemblyReference.cache
+D:\My program\C#\new\Max\Max\obj\Debug\Max.exe
+D:\My program\C#\new\Max\Max\obj\Debug\Max.pdb

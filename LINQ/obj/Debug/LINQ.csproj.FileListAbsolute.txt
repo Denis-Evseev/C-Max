@@ -1,0 +1,6 @@
+D:\My program\C#\new\Max\LINQ\bin\Debug\LINQ.exe.config
+D:\My program\C#\new\Max\LINQ\bin\Debug\LINQ.exe
+D:\My program\C#\new\Max\LINQ\bin\Debug\LINQ.pdb
+D:\My program\C#\new\Max\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+D:\My program\C#\new\Max\LINQ\obj\Debug\LINQ.exe
+D:\My program\C#\new\Max\LINQ\obj\Debug\LINQ.pdb
