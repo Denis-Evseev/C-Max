@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Max;
 
-namespace Array
+namespace Max
 {
 
     class Program
@@ -79,7 +76,7 @@ namespace Array
                     Console.Write("no in list");
                 }
             }
-            SearchName("Denis", car.Passengers);
+            //SearchName("Denis", car.Passengers);
 
             car.PassengerExit();
 
